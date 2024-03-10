@@ -1,5 +1,5 @@
 import React from "react";
-import { Layout, QueryResult } from "../components";
+import { Layout } from "../components";
 
 const Track = () => {
   return <Layout></Layout>;
